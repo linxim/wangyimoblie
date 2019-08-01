@@ -1,0 +1,13 @@
+.hot-name-list{
+    width: 9.86875rem;
+    height: 5.375rem;
+    padding: 0 .065625rem;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-top: 0;
+}
+.hot-name-item img{
+    width: 4.875rem;
+    height: 2.646875rem;
+}

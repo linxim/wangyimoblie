@@ -1,0 +1,58 @@
+.mobile-game-list{
+    width: 10rem;
+    height: 10.953125rem;
+    padding-bottom: .375rem;
+}
+.sub-title{
+    width: 10rem;
+    height: .5rem;
+    margin: .328125rem 0;
+    text-align: center;
+    font-size: .375rem;
+
+}
+.sub-title::before{
+    content: '';
+    width: .375rem;
+    height: .09375rem;
+    border-radius: .09375rem;
+    margin-right: .15rem;
+    background: #dcbc69;
+    display: inline-block;
+    vertical-align: middle;
+}
+.sub-title::after{
+    content: '';
+    width: .375rem;
+    height: .09375rem;
+    border-radius: .09375rem;
+    margin-left: .15rem;
+    background: #dcbc69;
+    display: inline-block;
+    vertical-align: middle;
+}
+.mobile_list{
+    width: 10rem;
+    height: 9.796875rem;
+    display: flex;
+    flex-wrap: wrap;
+    align-content: flex-start;
+}
+.game_list{
+    width: 2.5rem;
+    height: 2.071875rem;
+    
+    text-align: center;
+    
+}
+.game_list img{
+    width: 1.40625rem;
+    height: 1.40625rem;
+}
+.game_list a{
+    color: #000;
+}
+.gap-line{
+    height: .112187rem;
+    background: #f4f4f4;
+}

@@ -1,0 +1,43 @@
+.about-cbg{
+    width: 9.678125rem;
+    height: 3.853125rem;
+    padding: .2125rem .159375rem;
+    background:#ededed;
+    text-align: center;
+  }
+
+.about-cbg .sub-title::before{
+  
+    background: url(./img/jianjieleft.png) center top no-repeat;
+    background-size: .789063rem .138437rem;  
+    width: .7875rem;
+    height: .1375rem;
+}
+.about-cbg .sub-title::after{
+    background: url(./img/jianjieleft.png) center top no-repeat;
+   
+    background-size: .789063rem .138437rem;  
+    width: .7875rem;
+    height: .1375rem;
+}
+.detail{
+    color: #666666;
+}
+.footer{
+    width: 10rem;
+    height: .53125rem;
+    padding: .425rem 0;
+    display: flex;
+}
+.game-logo{
+    width: 5rem;
+    height: .53125rem;
+    background: url(./img/footer2.png) no-repeat right center;
+    background-size: auto .53125rem;
+}
+.game-name{
+    width: 5rem;
+    height: .53125rem;
+    background: url(./img/footer1.png) no-repeat left center;
+    background-size: auto .53125rem;
+}

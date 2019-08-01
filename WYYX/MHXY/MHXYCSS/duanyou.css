@@ -1,0 +1,35 @@
+.pc-game-list{
+    width: 100%;
+    height: 9.271875rem;
+    padding-bottom: .375rem;
+    
+}
+.pc-list{
+    width: 10rem;
+    height: 8.115625rem;
+    display: flex;
+    flex-wrap: wrap;
+    align-content: flex-start;
+}
+.game-list{
+    width: 3.33125rem;
+    height: 3.24375rem;
+    margin-bottom: 12px;
+    text-align: center;
+}
+.game-list img{
+    width: 2.578125rem;
+    height: 2.578125rem;
+}
+.game-bottom{
+    margin-top: .1875rem;
+    width: 10rem;
+    height: .5rem;
+    padding: .09375rem;
+    text-align: center;
+    font-size: .375rem;
+    align-self: center;
+}
+.game-bottom .find_all{
+    color: #e2bb6e;
+}

@@ -1,0 +1,48 @@
+.recent-deals{
+    width: 9.46875rem;
+    height: 11.15625rem;
+}
+.recent-list{
+    width: 9.625rem;
+    height: 2.5rem;
+    display: flex;
+    justify-content: space-around;
+}
+.recent-item{
+    width: .9375rem;
+    height: .9375rem;
+    margin-right: .140625rem;
+    
+
+}
+.img-wrap img{
+    width: .9375rem;
+    height: .9375rem;
+}
+.equip{
+    width: 3.375rem;
+    height: 1.09375rem;
+
+}
+.equip-right{
+    width: 3.20625rem;
+    height: 1.09375rem;
+    text-align: center;
+ 
+}
+.equip-right .deal-time{
+    width: 4.1875rem;
+    height: .5625rem;
+    display: block;
+    color: rgb(150,150,150);
+}
+.desc{
+    color: rgb(150,150,150);
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+.price{
+    padding-bottom: .09375rem;
+    color: #cfa02c;
+}

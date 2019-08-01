@@ -1,0 +1,47 @@
+.activity{
+    height: 8.4375rem;
+    width: 100%;
+    padding-bottom: .46875rem;
+    margin-bottom: .3125rem;
+    position: relative;
+    
+}
+.activity-wrap{
+    margin: 0 auto;
+    width: 10.78125rem;
+    display: flex;
+    justify-content: space-around;
+    
+}
+.activity-left{
+    width: 5.34375rem;
+    height: 6.875rem;
+}
+.activity-left img{
+    width: 5.34375rem;
+    height: 6.875rem;
+}
+.activity-right{
+    width: 5.3125rem;
+    height: 6.875rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.activity-right div{
+    width: 5.3125rem;
+    height: 2.234375rem;
+}
+.activity-right img{
+    width: 5.3125rem;
+    height: 2.234375rem;
+}
+.tit-1{
+   
+    width: 3.46875rem;
+    height: .5rem;
+    margin: .53125rem auto;
+    font-size: 0;
+    background: url(../img/activity-logo.png) 0 0 no-repeat;
+    background-size: 100% 100%;
+}

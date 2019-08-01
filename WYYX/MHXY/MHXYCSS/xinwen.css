@@ -1,0 +1,40 @@
+.new-list{
+    width: 9.625rem;
+    height: 5.43125rem;
+    padding: 0 .1875rem .375rem .1875rem;
+}
+.js_news_list{
+    width: 9.625rem;
+    height: 4.25rem;
+}
+.news_list{
+    width: 9.25rem;
+    height: 3.34375rem;
+    padding: 0 .1875rem;
+}
+.news_list a{
+    width: 9.25rem;
+    height: .590625rem;
+    padding-top: .2625rem;
+   
+    color: #000;
+    display: flex;
+    text-align: left;
+    justify-content: space-between;
+    
+}
+.date{
+    display: block;
+    color: #959595;
+}
+.news_list .news-title{
+    width: 6.078125rem;
+    height: .5rem;
+    overflow: hidden;
+    display: inline-block;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+.game-bottom a{
+    color: #e2bb6e;
+}
